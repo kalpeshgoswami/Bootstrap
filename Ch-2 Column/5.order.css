@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+#col-1 {
+    border: 2px solid black;
+    background-color: aquamarine;
+    height: 200px;
+}
+
+#col-2 {
+    border: 2px solid black;
+    background-color: rgb(5, 21, 255);
+    height: 200px;
+}
+
+#col-3 {
+    border: 2px solid black;
+    background-color: rgb(255, 255, 0);
+    height: 200px;
+}
+
+#col-4 {
+    border: 2px solid black;
+    background-color: rgb(255, 0, 157);
+    height: 200px;
+}
